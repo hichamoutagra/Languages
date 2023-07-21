@@ -11,6 +11,6 @@ print("2.")
 name =input("Enter your name : ")
 age = int(input("Enter your age  : "))
 print("My name is ",name," and My age is ",age)
-raw_input("Nice")
+
 
           
