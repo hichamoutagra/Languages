@@ -1,0 +1,2 @@
+Exercise 1:
+Write a program that enters two integers and displays their product 
